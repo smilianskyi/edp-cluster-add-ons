@@ -173,7 +173,7 @@ kuberocketci-pipelines:
   createNamespace: false
   enable: true
   namespace: b9d77a1f
-  repoUrl: ssh://git@github.com:22/smilianskyi/maven-custom-java17-app-build.git
+  repoUrl: ssh://git@github.com:22/smilianskyi/pipelines.git
 
 kuberocketci-rbac:
   createNamespace: false
