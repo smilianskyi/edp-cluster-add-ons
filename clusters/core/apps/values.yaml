@@ -171,9 +171,9 @@ krakend:
 
 kuberocketci-pipelines:
   createNamespace: false
-  enable: false
-  namespace: krci
-  repoUrl: ssh://git@github.com:22/epmd-edp/helm-helm-pipeline.git
+  enable: true
+  namespace: b9d77a1f
+  repoUrl: ssh://git@github.com:22/smilianskyi/maven-custom-java17-app-build.git
 
 kuberocketci-rbac:
   createNamespace: false
